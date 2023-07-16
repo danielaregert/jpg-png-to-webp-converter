@@ -1,15 +1,16 @@
 # Convertidor de imágenes jpg o png a webp
 
-Este programa escrito en Python te permite convertir imágenes en formato jpg o png a formato webp. Utiliza la biblioteca Pillow para realizar la conversión.
+Este programa escrito en Python permite convertir imágenes en formato jpg o png a formato webp. 
+Utiliza la *biblioteca Pillow* para realizar la conversión.
 
 ## Requisitos
 
-- Python: Asegúrate de tener Python instalado en tu sistema. Puedes verificarlo ejecutando el siguiente comando:
+- Python: Asegurate de tener Python instalado en tu sistema. Podes verificarlo ejecutando el siguiente comando:
 
   ```shell
   python --version
 
-- Pip: Comprueba que también tienes Pip instalado. Puedes verificarlo ejecutando el siguiente comando:
+- Pip: Comprueba que también tienes Pip instalado con el siguiente comando:
 
   ```shell
   pip --version
