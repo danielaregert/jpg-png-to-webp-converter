@@ -26,7 +26,7 @@ Utiliza la *biblioteca Pillow* para realizar la conversión.
   ```shell
   pip show pillow
 
-- Commiteate este archivo
+- Clonate este repo de forma local
 
 ## Uso
 
