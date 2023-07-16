@@ -31,7 +31,7 @@ Utiliza la *biblioteca Pillow* para realizar la conversión.
 ## Uso
 
 - Te parás en la carpeta donde está el archivo convertidor.py
-Ejecuta el programa con el siguiente comando:
+Ejecutas el programa con el siguiente comando:
 
   ```shell
   python convertidor.py
